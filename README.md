@@ -9,7 +9,7 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/shopping-basket-price-calculator.git
+    git clone https://github.com/anupdas99/shopping-basket.git
     ```
 
 2. Open the project in your preferred Java IDE.
